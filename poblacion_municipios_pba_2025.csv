@@ -1,0 +1,136 @@
+municipio_id,nombre,region,poblacion_2025
+6007,Adolfo Alsina,Interior,17333
+6014,Adolfo Gonzales Chaves,Interior,12882
+6021,Alberti,Interior,12946
+6028,Almirante Brown,RMBA,581174
+6035,Avellaneda,RMBA,365332
+6042,Ayacucho,Interior,21860
+6049,Azul,Interior,75662
+6056,Bahía Blanca,Interior,335936
+6063,Balcarce,Interior,48693
+6070,Baradero,Interior,39420
+6077,Arrecifes,Interior,32036
+6084,Benito Juárez,Interior,22199
+6091,Berazategui,RMBA,356965
+6098,Berisso,RMBA,101408
+6105,Bolívar,Interior,36925
+6112,Bragado,Interior,46272
+6119,Brandsen,RMBA,32669
+6126,Campana,RMBA,109581
+6134,Cañuelas,RMBA,71452
+6140,Capitán Sarmiento,Interior,15874
+6147,Carlos Casares,Interior,22670
+6154,Carlos Tejedor,Interior,14074
+6161,Carmen de Areco,Interior,17450
+6168,Castelli,Interior,9563
+6175,Colón,Interior,27354
+6182,Coronel de Marina Leonardo Rosales,Interior,66344
+6189,Coronel Dorrego,Interior,15798
+6196,Coronel Pringles,Interior,24151
+6203,Coronel Suárez,Interior,41875
+6210,Chacabuco,Interior,52405
+6218,Chascomús,Interior,42283
+6224,Chivilcoy,Interior,70426
+6231,Daireaux,Interior,18349
+6238,Dolores,Interior,31935
+6245,Ensenada,RMBA,64439
+6252,Escobar,RMBA,256692
+6260,Esteban Echeverría,RMBA,337051
+6266,Exaltación de la Cruz,RMBA,40220
+6270,Ezeiza,RMBA,201253
+6274,Florencio Varela,RMBA,495102
+6277,Florentino Ameghino,Interior,10809
+6280,General Alvarado,Interior,45526
+6287,General Alvear,Interior,12841
+6294,General Arenales,Interior,16258
+6301,General Belgrano,Interior,20475
+6308,General Guido,Interior,3160
+6315,General Juan Madariaga,Interior,22525
+6322,General La Madrid,Interior,11554
+6329,General Las Heras,Interior,17987
+6336,General Lavalle,Interior,4869
+6343,General Paz,Interior,14017
+6351,General Pinto,Interior,12876
+6357,General Pueyrredón,Interior,661938
+6364,General Rodríguez,RMBA,143640
+6371,General San Martín,RMBA,445277
+6385,General Viamonte,Interior,22600
+6392,General Villegas,Interior,35149
+6399,Guaminí,Interior,11640
+6406,Hipólito Yrigoyen,Interior,10600
+6408,Hurlingham,RMBA,184587
+6410,Ituzaingó,RMBA,177589
+6412,José C. Paz,RMBA,327135
+6413,Junín,Interior,103357
+6420,La Costa,Interior,101522
+6427,La Matanza,RMBA,1832354
+6434,Lanús,RMBA,457679
+6441,La Plata,RMBA,761634
+6448,Laprida,Interior,11600
+6455,Las Flores,Interior,26785
+6462,Leandro N. Alem,Interior,17141
+6466,Lezama,Interior,6188
+6469,Lincoln,Interior,45232
+6476,Lobería,Interior,18140
+6483,Lobos,Interior,41079
+6490,Lomas de Zamora,RMBA,687062
+6497,Luján,RMBA,110301
+6505,Magdalena,Interior,26899
+6511,Maipú,Interior,11265
+6515,Malvinas Argentinas,RMBA,348740
+6518,Mar Chiquita,Interior,33422
+6525,Marcos Paz,RMBA,66961
+6532,Mercedes,Interior,72681
+6539,Merlo,RMBA,578906
+6547,Monte,Interior,24491
+6553,Monte Hermoso,Interior,8517
+6560,Moreno,RMBA,573982
+6568,Morón,RMBA,329576
+6574,Navarro,Interior,19589
+6581,Necochea,Interior,101794
+6588,9 de Julio,Interior,51675
+6595,Olavarría,Interior,125244
+6602,Patagones,Interior,37802
+6609,Pehuajó,Interior,44674
+6616,Pellegrini,Interior,7144
+6623,Pergamino,Interior,114685
+6630,Pila,Interior,4637
+6638,Pilar,RMBA,395042
+6644,Pinamar,Interior,39740
+6648,Presidente Perón,RMBA,103091
+6651,Puán,Interior,16461
+6655,Punta Indio,Interior,12278
+6658,Quilmes,RMBA,629906
+6665,Ramallo,Interior,39867
+6672,Rauch,Interior,16561
+6679,Rivadavia,Interior,19818
+6686,Rojas,Interior,25477
+6693,Roque Pérez,Interior,13741
+6700,Saavedra,Interior,22005
+6707,Saladillo,Interior,35042
+6714,Salto,Interior,39319
+6721,Salliqueló,Interior,9356
+6728,San Andrés de Giles,Interior,26408
+6735,San Antonio de Areco,Interior,26788
+6742,San Cayetano,Interior,8942
+6749,San Fernando,RMBA,170522
+6756,San Isidro,RMBA,295768
+6760,San Miguel,RMBA,327869
+6763,San Nicolás,Interior,167274
+6770,San Pedro,Interior,68642
+6778,San Vicente,RMBA,99630
+6784,Suipacha,Interior,11743
+6791,Tandil,Interior,145139
+6798,Tapalqué,Interior,10617
+6805,Tigre,RMBA,446672
+6812,Tordillo,Interior,2551
+6819,Tornquist,Interior,14697
+6826,Trenque Lauquen,Interior,49271
+6833,Tres Arroyos,Interior,62085
+6840,Tres de Febrero,RMBA,362850
+6847,Tres Lomas,Interior,9102
+6854,25 de Mayo,Interior,34854
+6861,Vicente López,RMBA,280644
+6868,Villa Gesell,Interior,37529
+6875,Villarino,Interior,32669
+6882,Zárate,RMBA,131539
