@@ -1,37 +1,37 @@
 anio,poblacion,tipo_dato
-1991,12594974,Censo Nacional
-1992,12718000,Estimación intercensal
-1993,12841000,Estimación intercensal
-1994,12964000,Estimación intercensal
-1995,13087000,Estimación intercensal
-1996,13210000,Estimación intercensal
-1997,13333000,Estimación intercensal
-1998,13456000,Estimación intercensal
-1999,13579000,Estimación intercensal
-2000,13702000,Estimación intercensal
-2001,13827203,Censo Nacional
-2002,14027000,Estimación intercensal
-2003,14227000,Estimación intercensal
-2004,14426000,Estimación intercensal
-2005,14626000,Estimación intercensal
-2006,14826000,Estimación intercensal
-2007,15026000,Estimación intercensal
-2008,15226000,Estimación intercensal
-2009,15425000,Estimación intercensal
-2010,15625084,Censo Nacional
-2011,15786000,Estimación intercensal
-2012,15948000,Estimación intercensal
-2013,16110000,Estimación intercensal
-2014,16271000,Estimación intercensal
-2015,16433000,Estimación intercensal
-2016,16595000,Estimación intercensal
-2017,16757000,Estimación intercensal
-2018,16919000,Estimación intercensal
-2019,17081000,Estimación intercensal
-2020,17243000,Estimación intercensal
-2021,17405000,Estimación intercensal
-2022,17569053,Censo Nacional
-2023,17734200,Proyección oficial al 1 de julio
-2024,17898100,Proyección oficial al 1 de julio
-2025,18060500,Proyección oficial al 1 de julio
-2026,18221200,Proyección oficial al 1 de julio
+1991,12594974,Censo Nacional (INDEC)
+1992,12713086,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+1993,12832305,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+1994,12952643,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+1995,13074109,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+1996,13196714,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+1997,13320469,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+1998,13445384,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+1999,13571471,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2000,13698740,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2001,13827203,Censo Nacional (INDEC)
+2002,14016288,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2003,14207958,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2004,14402250,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2005,14599199,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2006,14798840,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2007,15001212,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2008,15206351,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2009,15414296,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2010,15625084,Censo Nacional (INDEC)
+2011,15766517,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2012,15909230,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2013,16053235,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2014,16198544,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2015,16345168,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2016,16493119,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2017,16642409,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2018,16793050,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2019,16945055,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2020,17098436,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2021,17253206,Interpolación con tasa de crecimiento constante entre censos (cálculo propio)
+2022,17409376,Proyección INDEC al 1 de julio (base Censo 2022)
+2023,17418577,Proyección INDEC al 1 de julio (base Censo 2022)
+2024,17431446,Proyección INDEC al 1 de julio (base Censo 2022)
+2025,17443372,Proyección INDEC al 1 de julio (base Censo 2022)
+2026,17453039,Proyección INDEC al 1 de julio (base Censo 2022)
